@@ -1,0 +1,9 @@
+REGION_NAME = "eu-west-2"
+ACCESS_KEY = ""
+SECRET_KEY = ""
+
+DB_CMDB_HOST = '127.0.0.1'
+DB_CMDB_PORT = 8889
+DB_CMDB_USER = 'user'
+DB_CMDB_PASSWORD = 'pass'
+DB_CMDB_DATABASE = "cmdb"
