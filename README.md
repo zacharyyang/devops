@@ -2,4 +2,4 @@
 
 
 # 链接地址
- - [AWS instance 和 volumes信息入库](https://github.com/zacharyyang/devops/aws/)
+ - [AWS instance 和 volumes信息入库](https://github.com/zacharyyang/devops/tree/master/aws)
